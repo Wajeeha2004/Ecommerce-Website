@@ -26,6 +26,9 @@ The site is fully responsive and optimized for both desktop and mobile users.
 - **Swiper.js** – sliders/carousels  
 - **FontAwesome** – icons
 
-🔗 **Live Demo:** [Click Here](https://your-live-demo-link.com)
+
+🔗 **Live Demo:** [Click Here](https://ecommerce-website-pied-theta.vercel.app/)
+
+
 
 Thanks for checking out this project!
